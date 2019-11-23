@@ -22,7 +22,7 @@
     "hood": {
         "id": "102",
         "name": "freifunk.tobo.biz",
-        "essid": "freifunktest",
+        "essid": "freifunk.tobo.biz",
         "mesh_bssid": "",
         "mesh_essid": "mesh.tobo",
         "mesh_id": "mesh.tobo",
