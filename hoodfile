@@ -1,1 +1,40 @@
-
+{
+    "version": 1,
+    "network": {
+        "ula_prefix": "fd43:5602:29bd:131:\/64"
+    },
+    "vpn": [
+        {
+            "name": "uranus",
+            "protocol": "fastd",
+            "address": "uranus.cdresel.de",
+            "port": "10102",
+            "key": "b193372d3ad05d1bfaa5ce4e49d28bab9dbc07f8eb074d687e20c9851892a3a7"
+        },
+        {
+            "name": "io",
+            "protocol": "fastd",
+            "address": "io.cdresel.de",
+            "port": "10102",
+            "key": "79cb216d865b0a11426c52ebe3f1650c53653d501092f26c602c04fcce092e79"
+        }
+    ],
+    "hood": {
+        "id": "102",
+        "name": "freifunk.tobo.biz",
+        "essid": "freifunktest",
+        "mesh_bssid": "",
+        "mesh_essid": "mesh.tobo",
+        "mesh_id": "mesh.tobo",
+        "protocol": "batman-adv-v15",
+        "channel2": "13",
+        "mode2": "ht20",
+        "mesh_type2": "802.11s",
+        "channel5": "40",
+        "mode5": "ht20",
+        "mesh_type5": "802.11s",
+        "upgrade_path": "http:\/\/[fd43:5602:29bd:ffff::feee]:83\/firmware\/current",
+        "ntp_ip": "fd43:5602:29bd:ffff::1",
+        "timestamp": "1543937501"
+    }
+}
