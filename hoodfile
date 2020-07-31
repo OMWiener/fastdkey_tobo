@@ -36,7 +36,7 @@
         "mode5": "ht20",
         "mesh_type5": "802.11s",
         "upgrade_path": "http://[fd43:5602:29bd:ffff::feee]:83",
-        "ntp_ip": "fd43:5602:29bd:ffff::1",
+        "ntp_ip": "fd43:5602:29bd:ffff::42",
         "timestamp": "1543937501"
     }
 }
