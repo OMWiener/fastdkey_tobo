@@ -10,6 +10,7 @@
             "address": "uranus.cdresel.de",
             "port": "10102",
             "key": "b193372d3ad05d1bfaa5ce4e49d28bab9dbc07f8eb074d687e20c9851892a3a7"
+            "contact": "fff@chrisi01.de"
         },
         {
             "name": "io",
@@ -17,6 +18,7 @@
             "address": "io.cdresel.de",
             "port": "10102",
             "key": "79cb216d865b0a11426c52ebe3f1650c53653d501092f26c602c04fcce092e79"
+            "contact": "fff@chrisi01.de"
         }
     ],
     "hood": {
